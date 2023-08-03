@@ -9,10 +9,15 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
-    
+ 
+ 
+ 
+ 
+ 
+  get: ^4.6.5
+  firebase_core: ^2.15.0
+  firebase_auth: ^4.7.0
   flutter_svg: ^1.1.0
-
   cupertino_icons: ^1.0.3
 
 dev_dependencies:
